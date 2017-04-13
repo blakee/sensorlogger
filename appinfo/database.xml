@@ -43,7 +43,7 @@
                 <name>data</name>
                 <type>text</type>
                 <notnull>false</notnull>
-                <length>255</length>
+                <length>4096</length>
             </field>
             <field>
                 <name>created_at</name>
